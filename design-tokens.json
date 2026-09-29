@@ -1,0 +1,102 @@
+{
+  "color": {
+    "green": {
+      "100": "#eef7f2",
+      "200": "#d8efe3",
+      "500": "#25946a",
+      "600": "#1a7a53",
+      "700": "#136142",
+      "800": "#0f4f36",
+      "900": "#0b3d2a"
+    },
+    "ink": {
+      "1": "#14201a",
+      "2": "#46534c",
+      "3": "#7b877f"
+    },
+    "line": {
+      "1": "#e4e9e5",
+      "2": "#d3dad5"
+    },
+    "bg": "#f6f8f6",
+    "card": "#ffffff",
+    "whatsapp": "#1faa59",
+    "amber": "#b7791f",
+    "red": "#c2413b",
+    "info": "#256aa5",
+    "channel": {
+      "upnow": "#136142",
+      "whatsapp": "#1faa59",
+      "instagram": "#b0417e",
+      "email": "#256aa5",
+      "phone": "#b7791f",
+      "bayut": "#4f7f6e",
+      "propertyFinder": "#c2413b",
+      "dubizzle": "#7a5a2e",
+      "google": "#4a6fd1"
+    }
+  },
+  "font": {
+    "serif": "DM Serif Display",
+    "sans": "Plus Jakarta Sans"
+  },
+  "type": {
+    "display": {
+      "family": "DM Serif Display",
+      "size": 34,
+      "weight": 400,
+      "lineHeight": 1.05
+    },
+    "h2": {
+      "family": "Plus Jakarta Sans",
+      "size": 15.5,
+      "weight": 700
+    },
+    "body": {
+      "size": 14,
+      "weight": 400,
+      "lineHeight": 1.45
+    },
+    "small": {
+      "size": 12.5,
+      "weight": 500
+    },
+    "label": {
+      "size": 11,
+      "weight": 800,
+      "letterSpacing": "0.06em",
+      "case": "upper"
+    },
+    "kpi": {
+      "size": 26,
+      "weight": 800
+    }
+  },
+  "radius": {
+    "sm": 10,
+    "md": 14,
+    "pill": 999
+  },
+  "spacing": [
+    4,
+    6,
+    8,
+    10,
+    12,
+    14,
+    16,
+    18,
+    20,
+    24,
+    28
+  ],
+  "shadow": {
+    "sm": "0 1px 2px rgba(15,40,28,.06), 0 4px 16px rgba(15,40,28,.06)",
+    "lg": "0 12px 40px rgba(15,40,28,.16)"
+  },
+  "layout": {
+    "sidebar": 232,
+    "topbar": 60,
+    "frame": 1440
+  }
+}
